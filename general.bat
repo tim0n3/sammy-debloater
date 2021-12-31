@@ -1,4 +1,5 @@
 :: RAW Paste of commands run on my samsung phone
+:: Credit goes to https://pastebin.com/aHAsgQAm
 :: start adb server
 adb devices
 :: connect to adb shell
