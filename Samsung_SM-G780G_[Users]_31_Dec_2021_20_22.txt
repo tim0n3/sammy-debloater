@@ -1,0 +1,22 @@
+# Preset was created in ADB AppControl 1.7.2
+# Total applications: 18
+# 31 Dec 2021 20:22
+# Samsung SM-G780G Users applications
+xyz.aethersx2.android
+pm uninstall -k --user 0 com.anydesk.anydeskandroid
+pm uninstall -k --user 0 com.sec.android.app.popupcalculator
+pm uninstall -k --user 0 com.clearscore.mobile
+pm uninstall -k --user 0 com.ashwhale.sepush.eskom
+pm uninstall -k --user 0 com.samsung.android.app.watchmanager
+pm uninstall -k --user 0 za.co.makro.mcard
+pm uninstall -k --user 0 com.google.android.apps.meetings
+pm uninstall -k --user 0 com.finmon.mialarm
+pm uninstall -k --user 0 com.sec.android.app.shealth
+pm uninstall -k --user 0 com.sec.android.app.sbrowser
+pm uninstall -k --user 0 com.sec.android.app.kidshome
+pm uninstall -k --user 0 com.samsung.android.spay
+pm uninstall -k --user 0 com.ubercab.eats
+pm uninstall -k --user 0 org.chromium.webapk.aaa449ce2897a191a_v2
+pm uninstall -k --user 0 com.sec.android.app.voicenote
+pm uninstall -k --user 0 com.google.android.apps.youtube.kids
+pm uninstall -k --user 0 com.pm uninstall -k --user 0 zapper.android

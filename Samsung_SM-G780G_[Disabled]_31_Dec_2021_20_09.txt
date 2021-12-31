@@ -1,0 +1,11 @@
+# Preset was created in ADB AppControl 1.7.2
+# Total applications: 7
+# 31 Dec 2021 20:09
+# Samsung SM-G780G Disabled applications
+pm uninstall -k --user 0 com.google.android.projection.gearhead		## Android Auto
+pm uninstall -k --user 0 com.samsung.android.mdx			## Link to Windows Service
+pm uninstall -k --user 0 com.touchtype.swiftkey			## Swift Keyboard
+pm uninstall -k --user 0 com.microsoft.skydrive			## OneDrive
+pm uninstall -k --user 0 com.samsung.android.app.spage			## Samsung Free
+pm uninstall -k --user 0 com.samsung.sree			## Samsung Global Goals
+pm uninstall -k --user 0 com.samsung.android.voc			## Samsung Members
